@@ -11,3 +11,8 @@
 - composer update
 - php artisan key:generate
 - php artisan serve
+
+## 2. Laravel naming convention
+
+### 1. Model name
+    
