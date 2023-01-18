@@ -1,0 +1,1 @@
+# laravel-naming-convention-and-installation-rules
