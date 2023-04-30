@@ -21,4 +21,7 @@
 ### 1. composer require laravel/ui
 ### 2. php artisan ui bootstrap --auth
 ### 3. npm install && npm run build
-    
+
+## 3. Check laravel packaged update requirement
+
+### 1. composer outdated --direct
