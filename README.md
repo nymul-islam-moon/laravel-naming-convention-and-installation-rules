@@ -5,11 +5,11 @@
 - git clone repository_link
 - cd project_name
 - cp .env.example .env
-- open .env and update DB_DATABASE (database details)
 - composer install
-- php artisan key:generate
 - composer update
 - php artisan key:generate
+-  open .env and update DB_DATABASE (database details)
+-  php artisan migrate:fresh --seed
 - php artisan serve
 
 ## 2. Laravel naming convention
